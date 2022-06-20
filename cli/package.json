@@ -2,6 +2,7 @@
   "version": "6.9.0",
   "dependencies": {
     "espree": "^7.1.0",
+    "jsdoc": "github:VitalyName/jsdoc#80443ca629052fc7aa8ff83ad3331be3123e39ce",
     "tmp": "^0.2.1"
   }
 }
